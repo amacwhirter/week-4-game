@@ -1,0 +1,15 @@
+.jumbotron {
+  margin-bottom: 0px;
+  text-shadow: gray 0.5em 0.5em 0.5em;
+  background-color: #e6f3ff !important;
+}
+.text-center{
+    color: darkred;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-style: italic;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: url("../images/background3.jpg");
+}

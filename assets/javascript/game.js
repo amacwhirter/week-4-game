@@ -15,12 +15,6 @@ var pinkGem = 1 + Math.floor(Math.random() * 12);
 var greenGem = 1 + Math.floor(Math.random() * 12);
 var purpleGem = 1 + Math.floor(Math.random() * 12);
 
-//keep this number hidden from user (console.log it to check)
-//console.log(blueGem);
-//console.log(pinkGem);
-//console.log(greenGem);
-//console.log(purpleGem);
-
 //set all variables to 0
 
 var userTotal = 0;
