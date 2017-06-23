@@ -8,7 +8,7 @@ generated number to the right by adding the unknown gem values together.
 Don't go over the given value or else you lose!
  ```
  
-### Preview
+### Preview Site
 
 https://admcrystalcollector.herokuapp.com/
 
